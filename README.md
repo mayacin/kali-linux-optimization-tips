@@ -3,7 +3,7 @@
 This repository contains a collection of useful commands and tips to optimize your Kali Linux system for better performance, security, and usability.
 
 ## The Tips 
-Keeping your system up to date for security patches and software improvements.
+
 
 ```bash
 # Keeping your system up to date for security patches and software improvements.
